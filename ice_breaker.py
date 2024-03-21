@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 
 from langchain_core.prompts import PromptTemplate
-from langchain_community.chat_models import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from langchain.chains import LLMChain
 
 if __name__ == '__main__':
