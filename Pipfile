@@ -14,6 +14,7 @@ gpt4all = "*"
 chromadb = "*"
 beautifulsoup4 = "*"
 llama-cpp-python = "*"
+langchain-openai = "*"
 
 [dev-packages]
 ipykernel = "*"
